@@ -4,6 +4,7 @@ Simulate the Eeprom to store structs
 Done: 
 - store a struct
 - read a struct
+
 To do: 
 - find the current sector in use
 - Check validate sector when write a struct 
